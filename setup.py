@@ -8,10 +8,10 @@ with open('requirements.txt', 'r') as f:
 
 setuptools.setup(
     name="imgscrapy",
-    version="0.0.1",
+    version="1.0.0",
     author="Arut Selvan",
-    author_email="arutselvan710@gmail.omc",
-    description="A simple imagescraper",
+    author_email="arutselvan710@gmail.com",
+    description="A simple CLI image scraper tool with support for headless scraping of dynamic websites.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/arutselvan/ImgScrapy",
@@ -20,6 +20,7 @@ setuptools.setup(
     entry_points={
         'console_scripts': ['imgscrapy=imgscrapy.main:main']
     },
+    license="MIT",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
