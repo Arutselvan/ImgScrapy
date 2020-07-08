@@ -3,7 +3,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/Arutselvan/ImgScrapy)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A simple CLI image scraper written in python inspired by [ImageScraper](https://pypi.org/project/ImageScraper/) with support for headless scraping of dynamic websites.
+A simple CLI image scraper written in python with support for headless scraping of dynamic websites.
 
 #### Installation
 ##### Build from source
