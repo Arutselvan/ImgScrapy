@@ -1,5 +1,5 @@
 # imgscrapy
-
+![Version](https://img.shields.io/pypi/v/imgscrapy)
 ![Downloads](https://img.shields.io/pypi/dm/imgscrapy?color=green)
 ![License](https://img.shields.io/pypi/l/imgscrapy)
 
