@@ -59,7 +59,7 @@ ImgScrapy uses [pyppeteer
 + Write tests
 + Add support for Base64 images
 + Add support for embedded/inline svg files
-+ Fix issues with headless browsing of dynamic site with modal/popup
++ Fix issues with headless browsing of dynamic sites with modal/popup
 + Fix issue with missing trailing slash in URL resolution
 + Add option to dump URL of downloaded/failed images
 
