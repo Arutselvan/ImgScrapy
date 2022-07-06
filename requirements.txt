@@ -1,5 +1,5 @@
 requests==2.23.0
-lxml==4.5.0
+lxml==4.9.1
 clint==0.5.1
 pyfiglet==0.8.post1
 progressbar33==2.4
