@@ -1,4 +1,4 @@
-requests==2.23.0
+requests==2.31.0
 lxml==4.5.0
 clint==0.5.1
 pyfiglet==0.8.post1
